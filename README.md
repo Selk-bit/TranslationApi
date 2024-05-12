@@ -19,8 +19,6 @@ Follow these instructions to set up the translation API on your local machine fo
 - Selenium
 - A WebDriver (e.g., ChromeDriver)
 
-### Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Selk-bit/TranslationApi.git
+
+For more, visit my LinkedIn profile: [Salim Elkellouti](https://www.linkedin.com/in/salim-elkellouti/).
